@@ -7,5 +7,9 @@ import jsonz
 
 import something
 
+<<<<<<< HEAD
 import xml
 
+=======
+import newfromotheruser
+>>>>>>> master
